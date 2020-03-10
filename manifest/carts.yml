@@ -21,7 +21,7 @@ spec:
         - name: DT_TAGS
           value: "product=sockshop"
         - name: DT_CUSTOM_PROP
-          value: "SERVICE_TYPE=BACKEND Owner=kristof.renders@dynatrace.com SCM=https://github.com/kristofre-aclmarch/carts"
+          value: "SERVICE_TYPE=BACKEND Owner=mailto:kristof.renders@dynatrace.com SCM=https://github.com/kristofre-aclmarch/carts"
         resources:
           limits:
             cpu: 500m
